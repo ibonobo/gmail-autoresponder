@@ -20,7 +20,7 @@ function AutoResponder(e) {
   }
 
   // Send our response email and label it responded to
-  var threads = GmailApp.search("has:nouserlabels -label:" + labelname + " to:(" + email_account + ")");
+  var threads = GmailApp.search("-subject:'re:' -is:chats -is:draft has:nouserlabels -label:" + labelname + " to:(" + email_account + ")");
   for (var i = 0; i < threads.length; i++) {
 
     // Response
