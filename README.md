@@ -29,6 +29,9 @@ http://www.pygaze.org/2015/06/selective-gmail-autoreply/
 IFTTT label with highfive for autoreply
 https://ifttt.com/recipes/82639
 
+IFTTT explained
+http://alexanderhuth.de/blog/autoresponder-gmail-ifttt/
+
 ESS on stackoverflow
 http://webapps.stackexchange.com/questions/26120/gmail-autoreply-when-adding-a-label-to-a-message
 
